@@ -1,12 +1,11 @@
-# buscador_de_gifs
 
-Aplicativo Buscador de gifs que faz consultas a API do Giphy 
+Buscador de Gifs.
 
-Getting Started
-This project is a starting point for a Flutter application.
+Aplicação Mobile desenvolvida em Flutter.
+Rodando em ambas plataformas, Android 🤖 & iOS 🍎.
 
-A few resources to get you started if this is your first Flutter project:
+Nessa aplicação foi desenvolvido uma simples buscador de gifs, que contem busca, carregar mais, share gifs, etc.
 
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+Tech Stack
+   Dart
+   Flutter

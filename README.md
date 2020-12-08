@@ -6,7 +6,8 @@ Rodando em ambas plataformas, Android 🤖 & iOS 🍎.
 Nessa aplicação foi desenvolvido uma simples buscador de GIFs, que contem busca, carregar mais, share gifs, etc.
 
 ## Tecnologias usadas 
-   Dart
+   Dart 
+   
    Flutter
 
 ## Configuração do Projeto
